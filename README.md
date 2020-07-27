@@ -119,8 +119,9 @@ As we can see, the results between the original and refactored code show that th
 
 ## Summary
 
-The advantages of refactoring code is that it usually makes it faster and more efficient. By taking fewer steps and using less memory, we can also improve the logic of the code to make it easier for future users to understand.
+The advantages of refactoring code are that it usually makes it faster and more efficient. By taking fewer steps and using less memory, we can also improve the logic of the code to make it easier for future users to understand.
 
 The downside of refactoring is that it can take a significant amount of time when the original code produced the results we wanted to find.
 
-Compared with the original VBA script, the refactored ones were faster, more readable and more maintainable (easier to adjust for mistakes or updates). For instance, if I made a mistake in which column I wanted to use, I would not have to go through the code and manually change each row or column number -- I could just change the number associated with the constant at the top.
+Compared with the original VBA script, the refactored ones were faster, more readable and more maintainable (easier to adjust for mistakes or updates). 
+For instance, if I made a mistake in which column I wanted to use, I would not have to go through the code and manually change each row or column number -- I could just change the number associated with the constant at the top.
